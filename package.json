@@ -1,0 +1,19 @@
+{
+  "name": "-handling-http-requests-with-node",
+  "version": "1.0.0",
+  "description": "Handling HTTP requests with Nodejs",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakepintu/-Handling-HTTP-requests-with-Node.js.git"
+  },
+  "author": "Mahendra Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakepintu/-Handling-HTTP-requests-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/jakepintu/-Handling-HTTP-requests-with-Node.js#readme"
+}
